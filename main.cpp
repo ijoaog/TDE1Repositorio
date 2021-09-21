@@ -132,7 +132,6 @@ int main() {
 		}
 	}
 	// Mostra passo a passo
-	cout<<"---Labirinto Joao Gabriel Klein Lopes---"<<endl<<endl;
 	for (int i =0; i < lab2.size() ; i++){
 		cout<<lab2[i]<<endl;
 	}	
