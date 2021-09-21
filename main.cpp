@@ -8,7 +8,7 @@ using namespace std;
 
 
 int main() {
-
+	//Bruto, sem limpeza
 	vector<string> lab = {
 	"XXXXXXXXXXXXXXXXXXXXX",
 	"X     X     X     X X",
@@ -31,8 +31,7 @@ int main() {
 	"X                 X X",
 	"XXXXXXXXXXXXXXXXXXXSX"
 	};
-
-
+// Com limpeza dos asteriscos
 	vector<string> lab2 = {
 	"XXXXXXXXXXXXXXXXXXXXX",
 	"X     X     X     X X",
